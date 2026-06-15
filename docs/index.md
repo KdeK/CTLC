@@ -20,7 +20,7 @@ Our goals are:
 ## How to Join
 
 New members are welcome—no formal train experience required.
-- Send a message through <a href="https://m.me/CalgaryLegoTrainClub">Facebook Messenger</a>.
+- Send a message through <a href="https://m.me/CalgaryLegoTrainClub" target="_blank" rel="noopener noreferrer">Facebook Messenger</a>.
 - Volunteer for 2 shows a year.
 - Review the Code of Conduct and display rules.
 - Bring something you’re working on (optional—building is encouraged but not required).
@@ -121,7 +121,7 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 Connect with the club online:
 
 <div class="contact-links">
-  <a href="https://m.me/CalgaryLegoTrainClub">Messenger</a>
-  <a href="https://www.facebook.com/CalgaryLegoTrainClub">Facebook</a>
-  <a href="https://www.instagram.com/calgarylegotrainclub?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==">Instagram</a>
+  <a href="https://m.me/CalgaryLegoTrainClub" target="_blank" rel="noopener noreferrer">Messenger</a>
+  <a href="https://www.facebook.com/CalgaryLegoTrainClub" target="_blank" rel="noopener noreferrer">Facebook</a>
+  <a href="https://www.instagram.com/calgarylegotrainclub?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer">Instagram</a>
 </div>
