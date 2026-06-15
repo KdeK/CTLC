@@ -119,4 +119,9 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 
 
 ## Contact
-Use Facebook Messenger or email (TBD).
+Connect with the club online:
+
+<div class="contact-links">
+  <a href="https://www.facebook.com/CalgaryLegoTrainClub">Facebook</a>
+  <a href="https://www.instagram.com/calgarylegotrainclub?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==">Instagram</a>
+</div>
