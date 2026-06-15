@@ -1,3 +1,8 @@
+---
+layout: default
+title: Calgary LEGO Train Club
+---
+
 # Calgary LEGO Train Club (CLTC)
 
 This is a draft GitHub Pages site created for discussion purposes.

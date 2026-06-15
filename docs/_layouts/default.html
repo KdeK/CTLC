@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title | default: "Calgary LEGO Train Club" }}</title>
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Calgary LEGO Train Club home">
+          <img class="brand__logo" src="{{ '/assets/ctlc_logo_wht.png' | relative_url }}" alt="">
+          <span class="brand__text">Calgary LEGO Train Club</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="#about--mission">About</a>
+          <a href="#how-to-join">Join</a>
+          <a href="#events">Photos</a>
+          <a href="https://cltc.ca/m/">Members</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <p>Calgary LEGO Train Club</p>
+    </footer>
+  </body>
+</html>
