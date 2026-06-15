@@ -51,10 +51,10 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 ## Events
 - Photo galleries
 
-### 2016
 <details>
-<summary>View 2016 photos</summary>
+<summary>2016</summary>
 
+<h3 class="event-title">Supertrain</h3>
 <div class="photo-grid">
   <a href="{{ '/photos/ST2016-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2016-1.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2016 - photo 1"></a>
   <a href="{{ '/photos/ST2016-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2016-2.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2016 - photo 2"></a>
@@ -63,10 +63,10 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 
 </details>
 
-### 2018
 <details>
-<summary>View 2018 photos</summary>
+<summary>2018</summary>
 
+<h3 class="event-title">Supertrain</h3>
 <div class="photo-grid">
   <a href="{{ '/photos/ST2018-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2018-1.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2018 - photo 1"></a>
   <a href="{{ '/photos/ST2018-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2018-2.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2018 - photo 2"></a>
@@ -75,10 +75,10 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 
 </details>
 
-### 2024
 <details>
-<summary>View 2024 photos</summary>
+<summary>2024</summary>
 
+<h3 class="event-title">Supertrain</h3>
 <div class="photo-grid">
   <a href="{{ '/photos/ST2024-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2024-1.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2024 - photo 1"></a>
   <a href="{{ '/photos/ST2024-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2024-2.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2024 - photo 2"></a>
@@ -87,24 +87,28 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 
 </details>
 
-### 2025
 <details>
-<summary>View 2025 photos</summary>
+<summary>2025</summary>
 
+<h3 class="event-title">Supertrain</h3>
 <div class="photo-grid">
   <a href="{{ '/photos/ST2025-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2025-1.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2025 - photo 1"></a>
   <a href="{{ '/photos/ST2025-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2025-2.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2025 - photo 2"></a>
   <a href="{{ '/photos/ST2025-3.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2025-3.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2025 - photo 3"></a>
+</div>
+
+<h3 class="event-title">Train Days at Heritage Park</h3>
+<div class="photo-grid">
   <a href="{{ '/photos/TD2025-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/TD2025-1.jpeg?v=20260614-3' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 1"></a>
   <a href="{{ '/photos/TD2025-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/TD2025-2.jpeg?v=20260614-3' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 2"></a>
 </div>
 
 </details>
 
-### 2026
 <details>
-<summary>View 2026 photos</summary>
+<summary>2026</summary>
 
+<h3 class="event-title">Supertrain</h3>
 <div class="photo-grid">
   <a href="{{ '/photos/ST2026-1.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2026-1.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2026 - photo 1"></a>
   <a href="{{ '/photos/ST2026-2.jpeg?v=20260614-3' | relative_url }}"><img src="{{ '/photos/ST2026-2.jpeg?v=20260614-3' | relative_url }}" alt="Super Train 2026 - photo 2"></a>
