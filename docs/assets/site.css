@@ -204,6 +204,7 @@ summary:hover {
   background: #ffe45e;
 }
 
+.photo-grid,
 details p {
   max-width: none;
   margin: 0;
