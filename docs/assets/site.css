@@ -23,10 +23,7 @@ html {
 body {
   margin: 0;
   color: var(--cltc-ink);
-  background:
-    radial-gradient(circle at 24px 24px, rgba(255, 213, 0, 0.28) 0 8px, transparent 9px),
-    linear-gradient(180deg, #fff6bd 0, var(--cltc-cream) 420px, #f2f2f2 100%);
-  background-size: 96px 96px, auto;
+  background: linear-gradient(180deg, #fff4a6 0, #ece8dd 390px, #d9dde3 100%);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   line-height: 1.6;
