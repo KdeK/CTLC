@@ -56,9 +56,9 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 <summary>View 2016 photos</summary>
 
 <div class="photo-grid">
-  <img src="{{ '/photos/ST2016-%20-%201.jpeg' | relative_url }}" alt="Super Train 2016 - photo 1">
-  <img src="{{ '/photos/ST2016-%20-%202.jpeg' | relative_url }}" alt="Super Train 2016 - photo 2">
-  <img src="{{ '/photos/ST2016-%20-%203.jpeg' | relative_url }}" alt="Super Train 2016 - photo 3">
+  <a href="{{ '/photos/ST2016-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/ST2016-%20-%201.jpeg' | relative_url }}" alt="Super Train 2016 - photo 1"></a>
+  <a href="{{ '/photos/ST2016-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/ST2016-%20-%202.jpeg' | relative_url }}" alt="Super Train 2016 - photo 2"></a>
+  <a href="{{ '/photos/ST2016-%20-%203.jpeg' | relative_url }}"><img src="{{ '/photos/ST2016-%20-%203.jpeg' | relative_url }}" alt="Super Train 2016 - photo 3"></a>
 </div>
 
 </details>
@@ -68,9 +68,9 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 <summary>View 2018 photos</summary>
 
 <div class="photo-grid">
-  <img src="{{ '/photos/ST2018-%20-%201.jpeg' | relative_url }}" alt="Super Train 2018 - photo 1">
-  <img src="{{ '/photos/ST2018-%20-%202.jpeg' | relative_url }}" alt="Super Train 2018 - photo 2">
-  <img src="{{ '/photos/ST2018-%20-%203.jpeg' | relative_url }}" alt="Super Train 2018 - photo 3">
+  <a href="{{ '/photos/ST2018-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/ST2018-%20-%201.jpeg' | relative_url }}" alt="Super Train 2018 - photo 1"></a>
+  <a href="{{ '/photos/ST2018-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/ST2018-%20-%202.jpeg' | relative_url }}" alt="Super Train 2018 - photo 2"></a>
+  <a href="{{ '/photos/ST2018-%20-%203.jpeg' | relative_url }}"><img src="{{ '/photos/ST2018-%20-%203.jpeg' | relative_url }}" alt="Super Train 2018 - photo 3"></a>
 </div>
 
 </details>
@@ -80,9 +80,9 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 <summary>View 2024 photos</summary>
 
 <div class="photo-grid">
-  <img src="{{ '/photos/ST2024-%20-%201.jpeg' | relative_url }}" alt="Super Train 2024 - photo 1">
-  <img src="{{ '/photos/ST2024-%20-%202.jpeg' | relative_url }}" alt="Super Train 2024 - photo 2">
-  <img src="{{ '/photos/ST2024-%20-%203.jpeg' | relative_url }}" alt="Super Train 2024 - photo 3">
+  <a href="{{ '/photos/ST2024-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/ST2024-%20-%201.jpeg' | relative_url }}" alt="Super Train 2024 - photo 1"></a>
+  <a href="{{ '/photos/ST2024-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/ST2024-%20-%202.jpeg' | relative_url }}" alt="Super Train 2024 - photo 2"></a>
+  <a href="{{ '/photos/ST2024-%20-%203.jpeg' | relative_url }}"><img src="{{ '/photos/ST2024-%20-%203.jpeg' | relative_url }}" alt="Super Train 2024 - photo 3"></a>
 </div>
 
 </details>
@@ -92,11 +92,11 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 <summary>View 2025 photos</summary>
 
 <div class="photo-grid">
-  <img src="{{ '/photos/ST2025-%20-%201.jpeg' | relative_url }}" alt="Super Train 2025 - photo 1">
-  <img src="{{ '/photos/ST2025-%20-%202.jpeg' | relative_url }}" alt="Super Train 2025 - photo 2">
-  <img src="{{ '/photos/ST2025-%20-%203.jpeg' | relative_url }}" alt="Super Train 2025 - photo 3">
-  <img src="{{ '/photos/TD2025-%20-%201.jpeg' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 1">
-  <img src="{{ '/photos/TD2025-%20-%202.jpeg' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 2">
+  <a href="{{ '/photos/ST2025-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/ST2025-%20-%201.jpeg' | relative_url }}" alt="Super Train 2025 - photo 1"></a>
+  <a href="{{ '/photos/ST2025-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/ST2025-%20-%202.jpeg' | relative_url }}" alt="Super Train 2025 - photo 2"></a>
+  <a href="{{ '/photos/ST2025-%20-%203.jpeg' | relative_url }}"><img src="{{ '/photos/ST2025-%20-%203.jpeg' | relative_url }}" alt="Super Train 2025 - photo 3"></a>
+  <a href="{{ '/photos/TD2025-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/TD2025-%20-%201.jpeg' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 1"></a>
+  <a href="{{ '/photos/TD2025-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/TD2025-%20-%202.jpeg' | relative_url }}" alt="Train Days at Heritage Park 2025 - photo 2"></a>
 </div>
 
 </details>
@@ -106,9 +106,9 @@ CLTC is a family-friendly community. By participating in meetings or displays, y
 <summary>View 2026 photos</summary>
 
 <div class="photo-grid">
-  <img src="{{ '/photos/ST2026-%20-%201.jpeg' | relative_url }}" alt="Super Train 2026 - photo 1">
-  <img src="{{ '/photos/ST2026-%20-%202.jpeg' | relative_url }}" alt="Super Train 2026 - photo 2">
-  <img src="{{ '/photos/ST2026-%20-%203.jpeg' | relative_url }}" alt="Super Train 2026 - photo 3">
+  <a href="{{ '/photos/ST2026-%20-%201.jpeg' | relative_url }}"><img src="{{ '/photos/ST2026-%20-%201.jpeg' | relative_url }}" alt="Super Train 2026 - photo 1"></a>
+  <a href="{{ '/photos/ST2026-%20-%202.jpeg' | relative_url }}"><img src="{{ '/photos/ST2026-%20-%202.jpeg' | relative_url }}" alt="Super Train 2026 - photo 2"></a>
+  <a href="{{ '/photos/ST2026-%20-%203.jpeg' | relative_url }}"><img src="{{ '/photos/ST2026-%20-%203.jpeg' | relative_url }}" alt="Super Train 2026 - photo 3"></a>
 </div>
 
 </details>
